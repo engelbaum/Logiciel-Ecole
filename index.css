@@ -1,0 +1,22 @@
+input{
+    height: 40px;
+width: 400px;
+border-radius: 7px;
+margin-top: 15px;
+background-color: aquamarine;
+font-size: x-large;
+
+
+
+}
+button{
+
+width: 100px;
+margin-top: 15px;
+border-radius: 7px;
+background-color: brown;
+color: aliceblue;
+height: 40px;
+
+
+}
